@@ -7,7 +7,7 @@
 ## How to **Install** CatroServ
 
 1. **Download the required files**:  
-   - Grab the `.catrobat` file and the **PHP template** from the [GitHub repository](#).  
+   - Grab the `.catrobat` file and the **PHP template** from the [GitHub repository](https://github.com/CupStudios/CatroServ/).  
    - If you are unable to host the PHP template, we recommend using the alternative `.catrobat` file available.
 
 2. **Sign Up and Configure Your Webserver**:  
